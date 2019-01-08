@@ -15,6 +15,10 @@ public class LoginServlet extends HttpServlet {
     /**
      * @see HttpServlet#HttpServlet()
      */
+	/*
+	 * iniziaiz
+	 * */
+	String ciao;
     public LoginServlet() {
         super();
         // TODO Auto-generated constructor stub
